@@ -10,7 +10,7 @@ This repository documents the setup and configuration of my home lab environment
   - [1. Proxmox Installation](#1-proxmox-installation)
   - [2. TrueNAS Installation](#2-truenas-installation)
   - [3. Jellyfin Setup](#3-jellyfin-setup)
-  - [4. Docker & Portainer Setup](#4-docker--portainer-setup)
+  - [4. Docker & Portainer Setup](#4-docker--portainer-installation)
   - [5. Minecraft Server Deployment](#5-game-server)
 
 ## Overview
