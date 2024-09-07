@@ -10,7 +10,7 @@ This repository documents the setup and configuration of my home lab environment
   - [1. Proxmox Installation](#1-proxmox-installation)
   - [2. TrueNAS Installation](#2-truenas-installation)
   - [3. Jellyfin Setup](#3-jellyfin-setup)
-  - [4. Docker & Portainer Setup](#4-docker--portainer-installation)
+  - [4. Docker & Portainer Setup](#4-docker-portainer-installation)
   - [5. Minecraft Server Deployment](#5-game-server)
 
 ## Overview
@@ -46,7 +46,7 @@ This project is a guide to building a robust home lab environment. Using Proxmox
    - Connect TrueNas storage
    - Add media and files
 
-### 4. Docker Portainer  Installation
+### 4. Docker Portainer Installation
 1. **Create a new Container in Proxmox**
 2. **Install Ubuntu Server:**
 3. **Configure:**
